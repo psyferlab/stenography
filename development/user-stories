@@ -1,0 +1,37 @@
+### User Stories:
+
+1. **As a student**, I want to be able to dictate my notes using my voice, so that I can take notes quickly during lectures without typing.
+   - **Acceptance Criteria:**
+     - The application should transcribe my voice accurately into text.
+     - I should be able to start and stop dictation easily.
+     - The transcribed text should be editable after dictation.
+
+2. **As a professional**, I want to organize my notes into different categories or notebooks, so that I can keep track of different projects and tasks efficiently.
+   - **Acceptance Criteria:**
+     - I should be able to create multiple notebooks.
+     - Each notebook should have a customizable name and cover image.
+     - I should be able to move notes between different notebooks.
+
+3. **As a researcher**, I want to integrate AI capabilities into my note-taking application, so that I can generate summaries or insights from my research notes.
+   - **Acceptance Criteria:**
+     - The application should integrate with an AI model like ChatGPT.
+     - I should be able to request summaries or insights from specific notes or notebooks.
+     - The generated content should be relevant and coherent based on the input notes.
+
+4. **As a user concerned about privacy**, I want to securely store my notes using decentralized storage solutions like IPFS, so that I have full control over my data and it cannot be accessed by third parties without my permission.
+   - **Acceptance Criteria:**
+     - The application should offer the option to store notes using Web3 integration with IPFS.
+     - Notes stored on IPFS should be encrypted to ensure privacy.
+     - Users should have the ability to manage access permissions for their stored notes.
+
+5. **As a freelancer**, I want to easily share my notes with clients or collaborators, so that we can collaborate on projects more effectively.
+   - **Acceptance Criteria:**
+     - The application should provide options for sharing individual notes or entire notebooks.
+     - Sharing should be secure and customizable, allowing me to control who can view or edit the shared content.
+     - Collaborators should be able to access shared notes without needing to sign up for the application.
+
+6. **As a user with disabilities**, I want the application to be accessible and user-friendly, so that I can use it effectively regardless of my physical limitations.
+   - **Acceptance Criteria:**
+     - The application should support keyboard shortcuts and navigation for users who cannot use a mouse.
+     - Voice recognition features should be optimized for users with speech impairments.
+     - The user interface should have sufficient color contrast and readability for users with visual impairments.
