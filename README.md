@@ -17,17 +17,17 @@ Certainly! Here's an Agile development plan for your software project:
 - **Duration**: 2 weeks
 
 #### Goals:
-1. Set up project repository and version control.
-2. Research and select primary technologies and frameworks.
-3. Define user stories and prioritize features.
-4. Create wireframes/mockups for user interface.
+1. ~~Set up project repository and version control.~~
+2. ~~Research and select primary technologies and frameworks.~~
+3. ~~Define user stories and prioritize features.~~ (see /user-stories)
+4. ~~Create wireframes/mockups for user interface.~~
 5. Establish communication channels and collaboration tools.
 
 #### Tasks:
-- Set up Git repository (GitHub, GitLab, etc.).
-- Choose programming languages and frameworks (Python, Electron.js, etc.).
-- Draft user stories and prioritize them based on importance.
-- Create wireframes/mockups using tools like Figma or Sketch.
+- ~~Set up Git repository (GitHub, GitLab, etc.).~~
+- ~~Choose programming languages and frameworks (Python, Electron.js, etc.).~~
+- ~~Draft user stories and prioritize them based on importance.~~
+- ~~Create wireframes/mockups using tools like Figma or Sketch.~~
 - Set up communication channels (Slack, Discord) and project management 
 tools (Trello, Jira).
 
