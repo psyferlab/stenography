@@ -1,6 +1,8 @@
 # stenography
 Persistent listening AI note taker, image editor/creator &amp; more.
 
+<img width="390" alt="13 Pro - 1@2x" src="https://github.com/psyferlab/stenography/assets/96510238/6338b9b2-b4ae-4219-8d33-7c7266a7ff3e">
+
 
 persistent listening ai stenographe for notes, simple functions with files 
 like creating deleting moing appending, voice recogition through 
