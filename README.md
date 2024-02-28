@@ -23,15 +23,15 @@ Certainly! Here's an Agile development plan for your software project:
 2. ~~Research and select primary technologies and frameworks.~~
 3. ~~Define user stories and prioritize features.~~ (see /user-stories)
 4. ~~Create wireframes/mockups for user interface.~~
-5. Establish communication channels and collaboration tools.
+5. ~~Establish communication channels and collaboration tools.~~
 
 #### Tasks:
 - ~~Set up Git repository (GitHub, GitLab, etc.).~~
 - ~~Choose programming languages and frameworks (Python, Electron.js, etc.).~~
 - ~~Draft user stories and prioritize them based on importance.~~
 - ~~Create wireframes/mockups using tools like Figma or Sketch.~~
-- Set up communication channels (Slack, Discord) and project management 
-tools (Trello, Jira).
+-~~Set up communication channels (Slack, Discord) and project management 
+tools (Trello, Jira).~~
 
 ### Sprint 2: Foundational Development
 - **Duration**: 3 weeks
